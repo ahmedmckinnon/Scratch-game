@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.hasanlion.zombigame"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>HasanLion</name>
+
+  <description>
+      Zombi game.
+  </description>
+
+  <author href="https://ahm-alluqmani.com" email="ahmedmckinnon.com">
+      Hasan Alluqmani
+  </author>
+  
+<icon src= "icon.png" />
+
+</widget>
